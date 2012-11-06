@@ -1,11 +1,11 @@
 gitbs
 =====
 
-All the bs
+All the BS
 
 - List super
-- easily
-- stuff
+- foo
+- bar
 
 1. one more edit
 2. Another list item
